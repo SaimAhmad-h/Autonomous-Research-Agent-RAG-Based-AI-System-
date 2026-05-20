@@ -1,0 +1,5 @@
+RULE 1: IF temperature > 90 THEN failure risk HIGH
+RULE 2: IF vibration = high THEN mechanical failure likely
+RULE 3: IF pressure > 40 THEN warning
+RULE 4: IF temperature > 95 AND vibration = high THEN CRITICAL failure
+RULE 5: IF repeated anomalies THEN system maintenance required

@@ -1,0 +1,7 @@
+Machine failure report logs:
+- Overheating detected in system
+- Temperature exceeded safe threshold multiple times
+- Vibration anomaly detected in motor system
+- Pressure instability observed in pipeline
+- Emergency shutdown triggered due to safety limits
+- Sensor drift detected in readings
